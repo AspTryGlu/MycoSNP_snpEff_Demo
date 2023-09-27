@@ -1,0 +1,3 @@
+"NFCORE_MYCOSNP:MYCOSNP:CREATE_PHYLOGENY:RAPIDNJ":
+    rapidnj: 2.3.2
+    biopython: 1.78

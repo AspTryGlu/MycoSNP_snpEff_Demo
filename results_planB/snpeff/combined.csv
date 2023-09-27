@@ -1,0 +1,4 @@
+sample_id,snpeff_gene_name,region,position,mutation,ref_sequence,sample_sequence
+SRR12784142,CAB11_002014,fks1_hs2,223805,p.Leu1357Phe,G,C
+SRR12784142,CAB11_002014,fks1_hs1,221650,p.Ser639Phe,C,T
+SRR7909346,CAB11_002014,fks1_hs1,221650,p.Ser639Tyr,C,A
