@@ -1,0 +1,8 @@
+vcf-files/SRR10461147.g.vcf.gz
+vcf-files/SRR12526241.g.vcf.gz
+vcf-files/SRR12784142.g.vcf.gz
+vcf-files/SRR7909141.g.vcf.gz
+vcf-files/SRR7909185.g.vcf.gz
+vcf-files/SRR7909346.g.vcf.gz
+vcf-files/SRR7909359.g.vcf.gz
+vcf-files/SRR9007776.g.vcf.gz
