@@ -2,4 +2,4 @@
 
 module load nextflow/22.10.6
 
-nextflow run CDCgov/mycosnp-nf -r v1.5 -profile PROFILE,sge --input new_samplesheet.csv --ref_dir Reference/reference --add_vcf_file vcf_input.txt --snpeff true --tmpdir tmpdir
+nextflow run CDCgov/mycosnp-nf -r v1.5 -profile PROFILE,sge --input new_samplesheet.csv --ref_dir Reference/reference --add_vcf_file vcf_input.txt --snpeff true --tmp-dir ../tmpdir
